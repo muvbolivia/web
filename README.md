@@ -1,4 +1,0 @@
-# web
----
-permalink: /index.html
----
